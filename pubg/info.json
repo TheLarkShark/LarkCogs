@@ -5,5 +5,5 @@
     "SHORT" : "PUBG Stats",
     "DESCRIPTION" : "Displays some PUBG stats" ,
     "TAGS" : ["PUBG", "stats"],
-    "REQUIREMENTS" : ["asyncio", "aiohttp", "json", "bs4"]
+    "REQUIREMENTS" : ["bs4"]
 }
