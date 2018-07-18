@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Lark Shark",
+    "INSTALL_MSG" : "[p]help pubg",
+    "NAME" : "PUBG",
+    "SHORT" : "PUBG Stats",
+    "DESCRIPTION" : "Displays some PUBG stats" ,
+    "TAGS" : ["PUBG", "stats"],
+    "REQUIREMENTS" : ["asyncio", "aiohttp", "json", "bs4"]
+}
